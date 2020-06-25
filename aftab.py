@@ -1,4 +1,4 @@
-﻿#!/usr/bin/python2
+#!/usr/bin/python2
 #coding=utf-8
 
 
@@ -95,7 +95,7 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "yang bener dong"
-            os.system('xdg-open  https://www.youtube.com/channel/UCx9BzZgR65pO16lcKssyc5Q')
+            os.system('xdg-open https://www.youtube.com/channel/UCx9BzZgR65pO16lcKssyc5Q')
     else:
         print "salah sayang!"
         os.system('xdg-open https://www.youtube.com/channel/UCx9BzZgR65pO16lcKssyc5Q')
