@@ -48,12 +48,12 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-\033[0;39m╭━━━┳━━━┳━━━╮
-\033[0;39m┃╭━╮┃╭━━┫╭━╮┃
-\033[0;39m╰╯╭╯┃╰━━┫┃┃┃┃
-\033[0;39m╭╮╰╮┃╭━╮┃┃┃┃┃
-\033[0;39m┃╰━╯┃╰━╯┃╰━╯┃
-\033[0;39m╰━━━┻━━━┻━━━╯
+\033[0;39m //WELCOME AFTAB CLONING------//
+\033[0;39m //LUCKY TEACH------------//
+\033[0;39m //SUBSCRIBE MY CHANNEL----//
+\033[0;39m //PRESS BELL ICON BUTTON-----//
+\033[0;39m //MORE INFORMATION PLZ COMENT---//
+\033[0;39m //LIKE & SHARE CHANNEL-------//
 \033[0;39m╔▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬╗
 \033[0;39m║\033[0;36m* \033[0;36mAuthor  \033[1;36m : \033[1;31mHACKER•|AFTAB.SIAL\033[0;31m║
 \033[0;39m║\033[1;33m* \033[1;33mGitHub  \033[1;33m : \033[1;33m\033[4mhttps://Github.com/AFTABSIAL\033[0m \033[0;31m║
@@ -77,7 +77,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print "\x1b[0;31m⚔═══════════════════════════☠═══════════════════════════⚔"
-print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : UNKNOWN\x1b[1;96m  
+print  """\x1b[0;31m [¤] \x1b[0;31mASSALAM O ALAIKUM\x1b[0;31m  \033[1;96m   [¤] \x1b[0;31mWHATSAPP : 03106874493\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mSTAY HOME\x1b[1;96m      [¤] \x1b[0;31mFACEBOOK : TERMUX TOOLS\x1b[1;96m  
 \033[1;93m [¤] \x1b[0;31mTOOLS BY AFTAB\x1b[1;96m  [¤] \x1b[0;31mYOUTUBE  : LUCKY TEACH\x1b[0;31m"""
 print " \x1b[1;93m⚔══════════════════════════☠═══════════════════════════⚔"
